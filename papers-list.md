@@ -10,3 +10,10 @@
 ### Machine Learning Engineering
 
 1. [Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)
+
+
+### Model Estimation:
+
+1. [Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning](https://arxiv.org/abs/1811.12808)
+
+2. [A systematic analysis of performance measures for classification tasks.](http://rali.iro.umontreal.ca/rali/sites/default/files/publis/SokolovaLapalme-JIPM09.pdf)

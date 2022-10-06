@@ -1,0 +1,5 @@
+[core]
+    remote = data-storage-papers
+    autostage = true
+['remote "data-storage-papers"']
+    url = ssh://datastorage@catanuso.duckdns.org:2223/home/datastorage/papers
